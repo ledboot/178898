@@ -1,0 +1,10 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-14 17:42:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-02-14 17:42:46 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /signup.php - 80 - 27.150.213.190 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:26.0)+Gecko/20100101+Firefox/26.0 safedog-flow-item=CB1CE0BAAB685170D8F997601A974F17;+ASPSESSIONIDCSATTRCC=CEOBECMDOFNBLIIBBNHPOGAD http://www.178898.com/ www.178898.com 200 0 0 592 353 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-02-15 08:19:14
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-02-15 08:19:14 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 OPTIONS / - 80 - 118.193.212.150 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.0+Safari/537.36 - - www.178898.com 200 0 64 194 212 46

@@ -1,0 +1,8 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2013-06-17 23:09:42
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2013-06-17 23:09:41 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /showkcjj.asp id=248 80 - 66.249.74.78 HTTP/1.1 DoCoMo/2.0+N905i(c100;TB;W24H16)+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - www.178898.com 403 0 0 2655 350 203
+2013-06-17 23:12:00 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /showzgrz.asp id=297 80 - 66.249.74.78 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - www.178898.com 403 0 0 2655 438 218
+2013-06-17 23:25:46 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /robots.txt - 80 - 66.249.74.79 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.178898.com 403 0 0 2655 264 343
+2013-06-17 23:25:46 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 GET /showpxxx.asp id=254 80 - 66.249.74.75 HTTP/1.1 Mozilla/5.0+(iPhone;+U;+CPU+iPhone+OS+4_1+like+Mac+OS+X;+en-us)+AppleWebKit/532.9+(KHTML,+like+Gecko)+Version/4.0.5+Mobile/8B117+Safari/6531.22.7+(compatible;+Googlebot-Mobile/2.1;++http://www.google.com/bot.html) - - www.178898.com 403 0 0 2655 438 390

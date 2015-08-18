@@ -1,0 +1,34 @@
+Body {FONT-FAMILY: "宋体"; FONT-SIZE: 9pt }
+TD {FONT-FAMILY: "宋体"; FONT-SIZE: 9pt }
+SELECT {
+   BACKGROUND: #ffffff; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+   height: 18px;
+   POSITION: static; 
+}
+
+A:visited {COLOR: #000000; font-family: "宋体"; TEXT-DECORATION: none }
+A:hover {COLOR: #FF0000; font-family: "宋体"; TEXT-DECORATION: none}
+A:LINK {COLOR: #000000; TEXT-DECORATION: none}
+INPUT {
+   BACKGROUND: #ffffFF; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+   height: 18px;
+   POSITION: static; 
+}
+TEXTAREA {
+   BACKGROUND: #ffffFF; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+}

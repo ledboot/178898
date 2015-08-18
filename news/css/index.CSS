@@ -1,0 +1,43 @@
+Body {FONT-FAMILY: "宋体"; FONT-SIZE: 9pt; SCROLLBAR-FACE-COLOR: #ffffff; SCROLLBAR-HIGHLIGHT-COLOR: #ffffff; SCROLLBAR-SHADOW-COLOR: #000000; SCROLLBAR-ARROW-COLOR: #000000; SCROLLBAR-DARKSHADOW-COLOR: #ffffff; SCROLLBAR-BASE-COLOR: #000000 }
+TD {FONT-FAMILY: "宋体"; FONT-SIZE: 9pt }
+SELECT {
+   BACKGROUND: #ffffff; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+   height: 18px; 
+}
+A.nl:link {COLOR: #903e02; TEXT-DECORATION: none}
+A.nl:visited {COLOR: #903e02; font-family: "宋体"; TEXT-DECORATION: none}
+A.nl:hover {COLOR: #ff9900; font-family: "宋体"; TEXT-DECORATION: none}
+
+A:visited {COLOR: #0066ff; font-family: "宋体"; TEXT-DECORATION: none }
+A:hover {COLOR: #FF0000; font-family: "宋体"; TEXT-DECORATION: none}
+A:LINK {COLOR: #0066FF; TEXT-DECORATION: none}
+A.MzTreeview{padding-left: 3px;}
+.INPUT1 {
+   BACKGROUND: #ffffFF; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+   height: 18px;
+   padding-left: 2px;
+   padding-top: 2px;
+}
+TEXTAREA {
+   BACKGROUND: #ffffFF; 
+   BORDER-BOTTOM: #000000 1px solid; 
+   BORDER-LEFT: #000000 1px solid; 
+   BORDER-RIGHT: #000000 1px solid; 
+   BORDER-TOP: #000000 1px solid;
+   font-size: 9pt;
+}
+.udd {  line-height: 18px}
+.l5 {  line-height: 5px}
+.l1 {  line-height: 1px}
+.font12 {FONT-FAMILY: "宋体"; FONT-SIZE: 12pt;font-weight: bold;}
+.font13{font-size:12px; font-weight:bold; color:#000000; text-align:center}

@@ -1,0 +1,4 @@
+<div class="mainB_RightH4">
+	<div class="RightH4"><a href="<%=NavPage_1%>"><%=lmname_1%></a></div>
+	<div class="RightH4_rihgt">当前位置：<a href="<%=webAddress%>" target="_blank" title="<%=website%>">首页</a> &gt; <a href="<%=NavPage%>" target="_blank"><%=lmname%></a><%If lmname <> lmname_1 Then%> &gt; <a href="<%=NavPage_1%>" target="_blank"><%=lmname_1%></a><%End If%><%If Not checkIsEmpty(breadCrumbsNavigationTitle)Then%> &gt; <a href="<%=showNavPage%>?id=<%=breadCrumbsNavigationArticleID%>" target="_blank" title="<%=breadCrumbsNavigationTitle%>"><%=LeftTrue(breadCrumbsNavigationTitle, 56)%></a><%End If%></div>
+</div>

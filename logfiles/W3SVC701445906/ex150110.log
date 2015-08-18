@@ -1,0 +1,20 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-09 20:03:46
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-09 20:03:46 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 PUT /gkckm60020.txt - 80 - 180.178.58.10 HTTP/1.1 Mozilla/4.0+(compatible;+Win32;+WinHttp.WinHttpRequest.5) - - www.178898.com 200 0 0 2092 288 250
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-10 02:23:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-10 02:23:11 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 PUT /gbqpu13083.txt - 80 - 64.34.170.88 HTTP/1.1 Mozilla/4.0+(compatible;+Win32;+WinHttp.WinHttpRequest.5) - - www.178898.com 200 0 0 2092 329 343
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-10 08:43:11
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-10 08:43:11 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 PUT /ihfmx92521.txt - 80 - 103.233.248.106 HTTP/1.1 Mozilla/4.0+(compatible;+Win32;+WinHttp.WinHttpRequest.5) - - www.178898.com 200 0 0 2092 286 31
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2015-01-10 13:53:56
+#Fields: date time s-sitename s-computername s-ip cs-method cs-uri-stem cs-uri-query s-port cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken 
+2015-01-10 13:53:56 W3SVC701445906 CHINESE-43AF4F3 220.168.248.200 OPTIONS / - 80 - 116.231.203.134 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.2;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.0+Safari/537.36 - - www.178898.com 200 0 64 194 212 46
